@@ -1,0 +1,36 @@
+[21-Jun-2024 14:48:33 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'elay6723_antrian'@'cardamom.iixcp.rumahweb.net' (using password: YES) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:9
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(9): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 9
+[21-Jun-2024 14:48:46 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'elay6723_antrian'@'cardamom.iixcp.rumahweb.net' (using password: YES) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:9
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(9): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 9
+[21-Jun-2024 14:49:47 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'elay6723_antrian'@'localhost' (using password: YES) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:9
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(9): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 9
+[21-Jun-2024 14:49:56 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'elay6723_antrian'@'localhost' (using password: YES) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:9
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(9): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 9
+[21-Jun-2024 14:52:16 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'elay6723_antrian'@'localhost' (using password: YES) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:9
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(9): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 9
+[21-Jun-2024 14:56:04 ASIA/JAKARTA] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/elay6723/public_html/AntrianPengunjung/config/config.php:6
+Stack trace:
+#0 /home/elay6723/public_html/AntrianPengunjung/config/config.php(6): mysqli->__construct()
+#1 /home/elay6723/public_html/AntrianPengunjung/petugas/login-check.php(3): require_once('/home/elay6723/...')
+#2 {main}
+  thrown in /home/elay6723/public_html/AntrianPengunjung/config/config.php on line 6
